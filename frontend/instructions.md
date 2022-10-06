@@ -1,7 +1,7 @@
 # Welcome Frontend Product Exercise
 
 ```
-TIMEBOX:    2-3 hours max. We mean it!
+TIMEBOX:    3-4 hours max. We mean it!
 LANGUAGES:  Javascript
 FRAMEWORKS: React and any libraries you want
 TESTS:      nice to have, but not mandatory
