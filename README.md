@@ -48,3 +48,10 @@ We know that the technical hiring processes in our industry are generally broken
 6. When complete email a link to the repository and any special instructions to info@uidu.org
 
 7. Sit back and relax. We'll review your submission and get back to you within 48 hours :smiley:
+
+## Resources
+
+You can use our design system (called guidu) to develop this exercise. We use it extensively in our products, it's open source, and even if docs are not always up-to-date (you may be working on this in the near future!), we think it provides great tools to develop fast, effective and consistent solutions. Discover more at:
+
+- [Documentation](https://uidu.design)
+- [Repo](https://github.com/uidu-org/guidu)
